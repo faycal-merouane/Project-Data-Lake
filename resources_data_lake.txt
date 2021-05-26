@@ -1,0 +1,7 @@
+https://mungingdata.com/apache-spark/partitionby/
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-cli.html
+https://sparkbyexamples.com/spark/rename-a-column-on-spark-dataframes/
+https://sparkbyexamples.com/spark/spark-dataframe-where-filter/
+https://knowledge.udacity.com/questions/67777
+https://knowledge.udacity.com/questions/591891
+https://stackoverflow.com/questions/55871233/implementing-an-auto-increment-column-in-a-dataframe
